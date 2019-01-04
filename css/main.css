@@ -1,7 +1,7 @@
 /** body **/
 @import url("https://fonts.googleapis.com/css?family=VT323");
 body {
-  background-color: #010101;
+  background-color: #000400;
   color: #f1f1f1f;
 }
 /** Nav Smellon **/
@@ -10,7 +10,7 @@ body {
   text-size: 23px;
   overflow: hidden;
   position: fixed;
-  line-height: 180%;
+  line-height: 200%%;
   bottom: 4%;
 }
 .navbar a {
@@ -29,7 +29,7 @@ body {
   height: 100%;
   display: flex;
   font-family: "VT323", sans-serif;
-  color: #08e408;
+  color: #00da07;
   font-size: 35px;
   text-transform: upercase;
   position: relative;
@@ -37,7 +37,7 @@ body {
 }
 .glitch-m:hover {
   color: white;
-  font-size: 35px;
+  font-size: 38px;
   text-transform: upercase;
   position: relative;
   display: inline-block;
